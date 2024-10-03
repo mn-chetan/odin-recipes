@@ -14,3 +14,9 @@ a {
   color: #f75990;
   font-size: 24px;
 }
+
+ul {
+  padding: 16px 32px;
+  border: 2px solid hsl(0, 0%, 96%);
+  width: 600px;
+}
